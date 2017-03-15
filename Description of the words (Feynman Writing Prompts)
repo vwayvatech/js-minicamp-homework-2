@@ -1,0 +1,5 @@
+for loop - A way to make a set of instruction(s) repeat.
+&& || ! - Operators to combine something to pass.  If it is one or more things, or just one thing, or if it not that thing.
+Array - A collection of data that can be accessed at a organized location.
+git - A program to check out code that is in Github and make changes on your local machine.  If need to come back to change the master code, it can be uploaded.
+GitHub - A database site that can use Git to check out code that is visible to see.
